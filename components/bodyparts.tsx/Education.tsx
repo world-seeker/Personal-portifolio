@@ -7,7 +7,7 @@ function Education() {
      <div className='flex '>
       <h1>Bachelor of Technology (B.Tech) in Computer Science Engineering</h1>
       <p>Shri Shankaracharya Technical Campus, 2019 - 2023</p>
-      <span className='mx-auto'>
+      <span className='ml-auto'>
       70/100
       </span>
      </div>
