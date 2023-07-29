@@ -6,7 +6,7 @@ function Parts({title,content}:any) {
            <span className='font-extrabold'>
        {title}
     </span>
-    <hr className='h-1 bg-black'></hr>
+    <hr className='h-1 bg-orange-900'></hr>
     <p>{content}</p>
     </div>
   )

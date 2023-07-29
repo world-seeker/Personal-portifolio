@@ -4,23 +4,23 @@ import Parts from './parts'
 function Education() {
   return (
     <div className='space-y-2 '>
-     <div className='flex '>
+     <div className='flex space-x-1 font-bold'>
       <h1>Bachelor of Technology (B.Tech) in Computer Science Engineering</h1>
       <p>Shri Shankaracharya Technical Campus, 2019 - 2023</p>
-      <span className='ml-auto'>
+      <span className='ml-auto font-normal my-auto'>
       70/100
       </span>
      </div>
     <div className='flex'>
      <h1>12th Board</h1>
      <p>Kakatiya Public School, Green Valley, 2018 - 2019</p>
-     <span className='ml-auto '>63/100</span>
+     <span className='ml-auto my-auto'>63/100</span>
     </div>
     <div className='flex'>
      <h1>10th Board</h1>
      <p>
 Shri Chaitanya Techno School, 2015 - 2016</p>
-     <span className='ml-auto'>86/100</span>
+     <span className='ml-auto my-auto'>86/100</span>
     </div>
   
 

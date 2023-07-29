@@ -4,7 +4,9 @@ function Projectpart() {
   return (
     <div>
         <div>
- <span>1.</span>Instagram Clone
+          <div>1.<span className='font-bold'>
+            Instagram Clone</span>
+          </div>
   <ol>
     <li>- Developed an Instagram clone using Next.js, Firebase, and Tailwind CSS.</li>
     <li>- Implemented features like image uploading, liking, disliking, and commenting.
@@ -13,7 +15,9 @@ function Projectpart() {
   </ol>
 </div>
 <div>
- <span>2.</span>NFT Clone
+<div>2.<span className='font-bold'>
+            NFT Clone</span>
+          </div>
   <ol>
     <li>- Created an NFT (Non-Fungible Token) clone using Next.js, Tailwind CSS, and Sanity CMS.</li>
     <li>- Demonstrated Next.js authentication (next-auth) and content management using Sanity CMS.

@@ -4,18 +4,18 @@ import Parts from './parts'
 function Skill() {
   return (
     <div>
-        <Parts title='Skills'/>
+        <Parts title='SKILLS'/>
         <div>
             <ul>
-                <li>- Programming Languages: JavaScript, Python</li>
-                <li>- Web Development: HTML5, CSS, Advance Tailwind CSS, React.js</li>
-                <li>- Backend Development: Firebase Integration, Node.js </li>
-                <li>Version Control: Git</li>
+                <li>- <b>Programming Languages:</b> JavaScript, Python</li>
+                <li>-<b> Web Development:</b> HTML5, CSS, Advance Tailwind CSS, React.js</li>
+                <li>-<b> Backend Development:</b> Firebase Integration, Node.js </li>
+                <li><b>Version Control:</b> Git</li>
                 <li></li>
             </ul>
         </div>
         <Parts title='PROFESSIONAL EXPERIENCE'/>
-        <h3>DesignElementary- Interior Design Startup</h3>
+        <h3><b>DesignElementary- Interior Design Startup</b></h3>
         <p>- One month Internship Experience</p>
         <p>- Role played: React-Frontend Developer</p>
         <p>- Worked in a Team Environment</p>

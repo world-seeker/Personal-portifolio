@@ -12,7 +12,7 @@ development. Proficient in programming languages such as Javascript and Python, 
 and data analysis. Quick learner, adaptable and able to work well in a team environment. Seeking an entry-level position to
 apply technical skills and contribute to the success of a dynamic organization.'/>
 <br></br>
-<div className='space-y-2 font-bold'>
+<div className='space-y-2'>
 <Parts title='Education'/>
 <Education/>
 <Parts title='Personal Projects'/>
