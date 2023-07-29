@@ -4,11 +4,11 @@ import Parts from './parts'
 function Education() {
   return (
     <div className='space-y-2 '>
-     <div className='flex space-x-1 font-bold'>
+     <div className='flex'>
       <h1>Bachelor of Technology (B.Tech) in Computer Science Engineering</h1>
       <p>Shri Shankaracharya Technical Campus, 2019 - 2023</p>
-      <span className='ml-auto font-normal my-auto'>
-      70/100
+      <span className='ml-auto  font-normal  my-auto'>
+      75/100
       </span>
      </div>
     <div className='flex'>
